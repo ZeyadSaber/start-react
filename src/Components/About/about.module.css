@@ -1,0 +1,13 @@
+.about{
+    background-color: #1ABC9C;
+    color: white;
+}
+.line{
+    width: 7rem;
+    background-color: white;
+    padding: 0.1rem;
+    margin-inline: 0.5rem;
+    display: inline-block;
+    border-radius: 0.25rem;
+    vertical-align: middle;
+}

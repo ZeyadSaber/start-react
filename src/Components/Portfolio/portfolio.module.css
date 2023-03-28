@@ -1,0 +1,35 @@
+.sectiontitle{
+    color: #2C3E50;
+}
+.line{
+    width: 7rem;
+    background-color: #2C3E50;
+    padding: 0.1rem;
+    margin-inline: 0.5rem;
+    display: inline-block;
+    border-radius: 0.25rem;
+    vertical-align: middle;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 4.5rem !important;
+    font-weight: bold !important;
+}
+.layer{
+    background-color:#1ABC9C;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5rem;
+    color: white;
+    opacity: 0;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.layer:hover{
+    opacity: 0.85;
+}

@@ -1,0 +1,12 @@
+nav{
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    background-color: #2C3E50;
+    padding: 1rem !important;
+    font-size: 1.2rem;
+}
+nav li a{
+    color: white !important;
+    margin: 1rem;
+}
